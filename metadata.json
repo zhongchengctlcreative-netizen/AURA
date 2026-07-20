@@ -1,0 +1,6 @@
+{
+  "name": "Aura Acoustics",
+  "description": "Premium sound products store with real-time audio comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
